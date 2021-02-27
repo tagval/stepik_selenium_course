@@ -1,2 +1,2 @@
 # stepik_selenium_course
-Practical exercuses of course
+Practical exercises of course for parts 1 and 2
